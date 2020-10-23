@@ -57,14 +57,14 @@ namespace segundoParcialLab2
             {
                 if (radioPantalon.Checked == true)   //Si es un pantalón
                 {
-                    Pantalon pant = new Pantalon(checkBoxBermuda.Checked, Convert.ToInt32(textBoxPrecio.Text), radioButtonPremium.Checked);
+                    Pantalon pant = new Pantalon(checkBoxBermuda.Checked, Convert.ToDouble(textBoxPrecio.Text), radioButtonPremium.Checked);
 
                     precioFinal = pant.calcularPrecio(Convert.ToInt32(textBoxCantidad.Text));
                     MessageBox.Show("$" + precioFinal, "Precio calculado");
                 }
                 else
                 {
-                    Camisa cam = new Camisa(checkBoxMangaCorta.Checked, Convert.ToInt32(textBoxPrecio.Text), radioButtonPremium.Checked);
+                    Camisa cam = new Camisa(checkBoxMangaCorta.Checked, Convert.ToDouble(textBoxPrecio.Text), radioButtonPremium.Checked);
 
                     precioFinal = cam.calcularPrecio(Convert.ToInt32(textBoxCantidad.Text));
                     MessageBox.Show("$" + precioFinal, "Precio calculado");
