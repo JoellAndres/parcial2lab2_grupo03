@@ -1,0 +1,10 @@
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\segundoParcialLab2\segundoParcialLab2\bin\Debug\segundoParcialLab2.exe.config
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\segundoParcialLab2\segundoParcialLab2\bin\Debug\segundoParcialLab2.exe
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\segundoParcialLab2\segundoParcialLab2\bin\Debug\segundoParcialLab2.pdb
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\segundoParcialLab2\segundoParcialLab2\obj\Debug\segundoParcialLab2.csprojAssemblyReference.cache
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\segundoParcialLab2\segundoParcialLab2\obj\Debug\segundoParcialLab2.Form1.resources
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\segundoParcialLab2\segundoParcialLab2\obj\Debug\segundoParcialLab2.Properties.Resources.resources
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\segundoParcialLab2\segundoParcialLab2\obj\Debug\segundoParcialLab2.csproj.GenerateResource.cache
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\segundoParcialLab2\segundoParcialLab2\obj\Debug\segundoParcialLab2.csproj.CoreCompileInputs.cache
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\segundoParcialLab2\segundoParcialLab2\obj\Debug\segundoParcialLab2.exe
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\segundoParcialLab2\segundoParcialLab2\obj\Debug\segundoParcialLab2.pdb
